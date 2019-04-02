@@ -23,4 +23,4 @@ Then Decoding it manually gave me the flag.
  
 
 
-> b00t2root{dnacrypto1sAwesome}
+> b00t2root{dnaCrypto1sAwesome}
